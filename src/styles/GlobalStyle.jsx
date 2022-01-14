@@ -24,8 +24,10 @@ const GlobalStyle = createGlobalStyle`
     }
 
     button {
-        border: none;
-        background-color: inherit;
+        margin: 0;
+        padding: 0;
+        border: 0;
+        background: none;
         cursor: pointer;
     }
 
