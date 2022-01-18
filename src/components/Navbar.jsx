@@ -88,6 +88,7 @@ const Wrap = styled.div`
 	top: 0;
 	left: 0;
 	background-color: white;
+	z-index:10;
 `
 
 const Nav = styled.nav`
