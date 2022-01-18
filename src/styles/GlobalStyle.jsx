@@ -15,13 +15,10 @@ const GlobalStyle = createGlobalStyle`
 
     a {
         text-decoration: none;
-        color: black;
+        color: inherit;
         cursor: pointer;
     }
 
-    a:link {
-        color: black;
-    }
 
     button {
         margin: 0;
